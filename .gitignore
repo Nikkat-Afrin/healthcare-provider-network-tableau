@@ -1,0 +1,7 @@
+﻿# Tableau
+.twb.bak
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
