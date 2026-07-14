@@ -2,7 +2,7 @@
 
 **Interactive Tableau dashboards analyzing a healthcare provider network — provider mix, regional coverage, plan enrollment by demographic, disease focus, and quarterly trends — to support network-adequacy and health-plan decisions.**
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
