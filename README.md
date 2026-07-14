@@ -40,7 +40,8 @@ Health plans and provider networks must constantly answer: *do we have the right
 ```
 healthcare-provider-network-tableau/
 ├── images/      # PNG previews of every dashboard & worksheet (extracted from the .twbx)
-└── workbooks/   # the packaged Tableau workbooks (.twbx) — open in Tableau Desktop/Public
+├── workbooks/   # the packaged Tableau workbooks (.twbx) — open in Tableau Desktop/Public
+└── docs/        # final presentation deck
 ```
 
 ## ▶️ View it
