@@ -2,7 +2,7 @@
 
 **Interactive Tableau dashboards analyzing a healthcare provider network - provider mix, regional coverage, plan enrollment by demographic, disease focus, and quarterly trends - to support network-adequacy and health-plan decisions.**
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Live%20Dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nikkat.afrin/viz/NYCInsuranceNetwork/modifieddashboard) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -12,15 +12,16 @@ Health plans and provider networks must constantly answer: *do we have the right
 
 ## 🖼️ Dashboards
 
-**Final dashboard**
+### ▶ Interact with the live dashboard on Tableau Public
+**<https://public.tableau.com/app/profile/nikkat.afrin/viz/NYCInsuranceNetwork/modifieddashboard>** - filters, tooltips and highlights all work in the browser, no install needed.
 
-![Final dashboard](images/Final_project_Dashboard__modified_dashboard.png)
+[![NYC Health Provider Network dashboard](images/nyc_insurance_network_dashboard.png)](https://public.tableau.com/app/profile/nikkat.afrin/viz/NYCInsuranceNetwork/modifieddashboard)
 
-**EDA dashboard**
+*Click the image to open the interactive version.*
+
+### Exploratory analysis
 
 ![EDA dashboard](images/EDA_OF_provider_network-1__Dashboard_1.png)
-
-> Additional individual views are in [`images/`](images/) (Regional distribution, Plan vs Gender, Plans vs Quarters, Primary Disease, Provider Types, Board Status, Summary Stats).
 
 ## 📊 What the dashboards show
 | View | Question it answers |
@@ -46,6 +47,7 @@ healthcare-provider-network-tableau/
 ```
 
 ## ▶️ View it
+- **Fastest: the live interactive dashboard on Tableau Public** - <https://public.tableau.com/app/profile/nikkat.afrin/viz/NYCInsuranceNetwork/modifieddashboard>
 - **Open the workbooks:** download `workbooks/*.twbx` and open in **Tableau Desktop** or **Tableau Public** (free).
 - **Live (recommended):** publish to **Tableau Public** and link here → **`ADD_TABLEAU_PUBLIC_LINK`**
 
