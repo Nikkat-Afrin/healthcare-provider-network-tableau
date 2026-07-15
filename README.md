@@ -1,13 +1,14 @@
-# NYC Healthcare Provider Network — Tableau Dashboard 🏥📊
+# NYC Healthcare Provider Network - Tableau Dashboard 🏥📊
 
-**Interactive Tableau dashboards analyzing a healthcare provider network — provider mix, regional coverage, plan enrollment by demographic, disease focus, and quarterly trends — to support network-adequacy and health-plan decisions.**
+**Interactive Tableau dashboards analyzing a healthcare provider network - provider mix, regional coverage, plan enrollment by demographic, disease focus, and quarterly trends - to support network-adequacy and health-plan decisions.**
 
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white) ![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-green)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
 ## 💼 Why this matters
-Health plans and provider networks must constantly answer: *do we have the right providers, in the right regions, for the members and conditions we serve?* These dashboards turn raw provider-network data into an at-a-glance view of **network composition, geographic coverage, demographic enrollment, and disease focus** — the inputs to network-adequacy reviews and provider-recruitment strategy.
+Health plans and provider networks must constantly answer: *do we have the right providers, in the right regions, for the members and conditions we serve?* These dashboards turn raw provider-network data into an at-a-glance view of **network composition, geographic coverage, demographic enrollment, and disease focus** - the inputs to network-adequacy reviews and provider-recruitment strategy.
 
 ## 🖼️ Dashboards
 
@@ -40,7 +41,7 @@ Health plans and provider networks must constantly answer: *do we have the right
 ```
 healthcare-provider-network-tableau/
 ├── images/      # PNG previews of every dashboard & worksheet (extracted from the .twbx)
-├── workbooks/   # the packaged Tableau workbooks (.twbx) — open in Tableau Desktop/Public
+├── workbooks/   # the packaged Tableau workbooks (.twbx) - open in Tableau Desktop/Public
 └── docs/        # final presentation deck
 ```
 
